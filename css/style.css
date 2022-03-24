@@ -1,0 +1,28 @@
+/* common css style start */
+.text-font{
+    font-size: 18px;
+}
+
+.mg-left{
+    margin: 0;
+    padding: 0 120px 0 80px;
+}
+
+.fas{
+    font-size: 20px;
+}
+
+.nav-font li{
+    font-size: 20px;
+    margin: 0 14px;
+}
+
+.nav-font li a{
+    font-weight: 600;
+}
+
+.icon-text{
+    font-size: 25px;  
+}
+
+/* common css style end */
